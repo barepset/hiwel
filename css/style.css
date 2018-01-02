@@ -102,6 +102,16 @@ body {
       border-bottom-left-radius: 0px;
       border-bottom-right-radius: 0px;
   }
+  .panel-heading-login {
+      color: #fff !important;
+      background-color: #F8F8F8 !important;
+      padding: 25px;
+      border-bottom: 1px solid transparent;
+      border-top-left-radius: 0px;
+      border-top-right-radius: 0px;
+      border-bottom-left-radius: 0px;
+      border-bottom-right-radius: 0px;
+  }
   .panel-footer {
       background-color: white !important;
   }
